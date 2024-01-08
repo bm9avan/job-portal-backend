@@ -2,6 +2,9 @@
 
 Welcome to the Job Portal Backend, a Spring Boot application powering the backend services for a job portal.
 
+Front-end: https://job-portal-bm9avan.vercel.app
+Front-end code: https://github.com/bm9avan/job_portal
+
 ## Endpoints
 
 ### GET /get
